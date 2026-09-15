@@ -10,3 +10,4 @@ wheels/
 .venv
 test.db
 test2.db
+test3.db
